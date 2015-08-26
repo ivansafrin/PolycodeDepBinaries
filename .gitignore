@@ -1,6 +1,4 @@
 .DS_Store
 *.pri
-Polycore.a
-Polycored.a
-Polycore.lib
-Polycored.lib
+*Polycode*
+*Polycore*
